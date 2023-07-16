@@ -11,3 +11,7 @@
 ## The User information will persist as long as you are connected to the platform, and you may switch between your accounts and observe the displayed information change accordingly.
 
 ## You may also disconnect from the service as you follow the instructions given on the Modal.
+
+# How to play with the project
+
+## >> npm install && npm start
