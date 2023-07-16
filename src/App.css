@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  background: #f9bf52;
+  font-family: 'Calibri', Arial, Helvetica, sans-serif;
+}
