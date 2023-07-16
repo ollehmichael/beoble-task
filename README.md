@@ -2,7 +2,7 @@
 
 ## Welcome to Mike's Take Home Task
 
-## On this platform, you are able to connect to your MetaMask wallet
+## On this React/Typescript platform, you are able to connect to your MetaMask wallet
 
 ## Then you are given your wallet information, including connected Chain ID, Wallet Address, Remaining Balance, and your ENS and ENS Avatar if you have registered for the service
 
@@ -15,3 +15,15 @@
 # How to play with the project
 
 ## >> npm install && npm start
+
+# Stack
+
+## - Frontend: React & Typescript
+
+## - State Management: Redux
+
+## - Blockchain Integration: Web3 & Ethers.js
+
+## - Architecture: Atomic Design
+
+## - UI - Material UI
